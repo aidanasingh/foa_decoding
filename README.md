@@ -1,7 +1,9 @@
 # FOA Binaural Decoding
 
-This repository includes a jupyter notebook and associated files  for evaluating different virtual speaker arrays for first order ambisonic decoding, including spatially oversampled arrays.
+This repository includes a jupyter notebook and associated files for evaluating different virtual speaker arrays for first order ambisonic decoding, including spatially oversampled arrays.
 
-## Dependencies
+Alternative to compiling the jupyter notebook, this repository has select wav files that were rendered using the associated software.
 
-Running the jupyter notebook additionally requires the Neumann KU 100 HRTF's from the SADIE II dataset. Downloading the associated folder entitled `D1_HRIR_WAV` and placing it in the repository folder will satisfy this requirement. Alternatively, the us
+This repository includes Neuman KU 100 HRIR's from the SADIE II Dataset, and a 'single source' file from the 3D-MARCo dataset.
+
+For more information, see [my website](aidanasing.github.io/Projects/foa_binaural_decoder).
