@@ -6,4 +6,4 @@ Alternative to compiling the jupyter notebook, this repository has select wav fi
 
 This repository includes Neuman KU 100 HRIR's from the SADIE II Dataset, and a 'single source' file from the 3D-MARCo dataset.
 
-For more information, see [my website](aidanasing.github.io/Projects/foa_binaural_decoder).
+For more information, see [my website](https://aidanasingh.github.io/Projects/foa_binaural_decoder/).
